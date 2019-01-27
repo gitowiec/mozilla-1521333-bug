@@ -1,0 +1,1 @@
+Linux inspiron 4.18.20-041820-generic #201811211035 SMP Wed Nov 21 10:37:21 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
